@@ -1,15 +1,13 @@
-Hi 👋 My name is Yassine Jador
+Hi 👋 My name is JADOR Yassine
 ==============================
 
-Full Stack Developer
+Software Engineering Student
 --------------------
 
 🚀 Full Stack Developer with a keen interest in Computer Science! 💻 Navigating the realms of Algorithms, Data Structures, and Software Engineering. Let's connect and delve into the fascinating world where technology and computer science converge!
 
-* 🌍  I'm based in Casablanca
 * 🖥️  See my portfolio at [yassinejador.com](http://yassinejador.com)
 * ✉️  You can contact me at [yassinejador@gmail.com](mailto:yassinejador@gmail.com)
-* 🧠  I'm learning Data Structures and Algorithms
 * 🤝  I'm open to collaborating on Open Source Projects
 
 ### Socials
