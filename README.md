@@ -164,28 +164,7 @@ Software Engineering Student
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Npm" src="https://img.shields.io/badge/Npm-f1f1f1?style=flat-square&logo=npm&logoColor=red"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" src="https://img.shields.io/badge/json-%23000000.svg?style=flat-square&logo=json&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat-square&logo=Postman&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?style=flat-square&logo=jira&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Agile" src="https://img.shields.io/badge/Agile-000000.svg?style=flat-square&logo=agile&logoColor=white"></a>
-</div>
-
-### 👉 IDEs
- 
-<div style="display: flex"> 
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" /></a>
-  &emsp;
-    <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellijidea&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Codesandbox" src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" /></a>
 </div>
 
  ### 👉 Operating Systems
