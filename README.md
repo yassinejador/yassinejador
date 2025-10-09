@@ -7,7 +7,7 @@ Software Engineering Student
 Software Engineer passionate about crafting efficient, scalable solutions to complex problems. I thrive on writing clean, high-performance code and continuously exploring new technologies to solve challenging engineering problems.
 
 * 🖥️  See my portfolio at [yassinejador.com](http://www.yassinejador.com)
-* 👔  View my LinkedIn [Yassine Jador](http://wwww.linkedin.com/in/yassinejador)
+* 👔  View my LinkedIn [Yassine Jador](http://www.linkedin.com/in/yassinejador)
 * ✉️  You can contact me at [yassinejador@gmail.com](mailto:yassinejador@gmail.com)
 * 🤝  I'm open to collaborating on Open Source Projects
 
