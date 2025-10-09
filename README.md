@@ -162,8 +162,6 @@ Software Engineering Student
   &emsp;
     <a href="#"><img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36.svg?style=flat-square&logo=apachemaven&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat-square&logo=Postman&logoColor=white"></a>
 </div>
 
