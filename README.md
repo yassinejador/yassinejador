@@ -4,9 +4,10 @@
 Software Engineering Student
 --------------------
 
-🚀 Full Stack Developer with a keen interest in Computer Science! 💻 Navigating the realms of Algorithms, Data Structures, and Software Engineering. Let's connect and delve into the fascinating world where technology and computer science converge!
+Software Engineer passionate about crafting efficient, scalable solutions to complex problems. I thrive on writing clean, high-performance code and continuously exploring new technologies to solve challenging engineering problems.
 
-* 🖥️  See my portfolio at [yassinejador.com](http://yassinejador.com)
+* 🖥️  See my portfolio at [yassinejador.com](http://www.yassinejador.com)
+* 👔  View my LinkedIn [Yassine Jador](http://wwww.linkedin.com/in/yassinejador)
 * ✉️  You can contact me at [yassinejador@gmail.com](mailto:yassinejador@gmail.com)
 * 🤝  I'm open to collaborating on Open Source Projects
 
@@ -176,11 +177,3 @@ Software Engineering Student
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"></a>
 </div>
 <br />
-
-### 👉 Badges
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yassinejador&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yassinejador" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yassinejador&show_icons=true&locale=en&theme=tokyonight" alt="yassinejador" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yassinejador&&theme=tokyonight" alt="yassinejador" /></p>
