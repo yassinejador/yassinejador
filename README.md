@@ -1,7 +1,7 @@
 # Hi 👋 My name is JADOR Yassine
 ==============================
 
-Software Engineering Student
+Software Engineering
 --------------------
 
 Software Engineer passionate about crafting efficient, scalable solutions to complex problems. I thrive on writing clean, high-performance code and continuously exploring new technologies to solve challenging engineering problems.
