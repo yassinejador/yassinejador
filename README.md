@@ -13,7 +13,11 @@ Software Engineer passionate about crafting efficient, scalable solutions to com
 
 ### 👉 Programming Languages
 
-<div style="display: flex"> 
+<div style="display: flex">
+  &emsp; 
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+  </a>
   &emsp; 
   <a href="#" target="_blank"> 
      <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
@@ -26,10 +30,6 @@ Software Engineer passionate about crafting efficient, scalable solutions to com
   <a href="https://www.typescriptlang.org/" target="_blank"> 
      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white">
    </a>
-  &emsp; 
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-  </a>
   &emsp; 
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white">
